@@ -19,7 +19,8 @@ import com.estagio.repositories.UserRepository;
 @Configuration
 @Profile("test")
 public class TestConfig implements CommandLineRunner {
-
+//Arquivo apenas para testes, sendo necessário mudar o profile para "dev"
+	
 	@Autowired
 	private UserRepository userRepository;
 
