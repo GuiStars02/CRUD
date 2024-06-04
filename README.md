@@ -1,4 +1,4 @@
-# CRUD Spring boot
+# CRUD Spring boot (em desenvolvimento)
 
 # Sobre o projeto
 O projeto consiste em uma API Restful utilizando Spring boot.  
